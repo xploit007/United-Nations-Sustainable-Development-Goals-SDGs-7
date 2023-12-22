@@ -1,11 +1,8 @@
 # United-Nations-Sustainable-Development-Goals-SDGs-7 Tableau Dashboard
 
-
-# Project Title
-
 ## Project Overview
 
-This dynamic project employed Python, Excel, and Jupyter Notebook to clean, analyze, and visualize global energy access data in alignment with Sustainable Development Goal 7 (SDG-7) on affordable and clean energy.
+This dynamic project employed Python, Excel, and Jupyter Notebook to clean, analyze, and visualize global energy access data in alignment with Sustainable Development Goal 7 (SDG-7) on affordable and clean energy using Tableau.
 
 ### Key Steps
 
@@ -14,7 +11,7 @@ This dynamic project employed Python, Excel, and Jupyter Notebook to clean, anal
    - Identified and addressed significant data cleaning requirements, especially in handling missing values.
 
 2. **Data Cleaning with Python:**
-   - Utilized Python packages, including Pandas, NumPy, and SciPy, for data cleaning tasks.
+   - Utilized Python packages, including Pandas and NumPy for data cleaning tasks.
    - Executed operations such as handling missing data, data transformations, and managing outliers.
 
 3. **Exploratory Data Analysis (EDA):**
@@ -25,8 +22,8 @@ This dynamic project employed Python, Excel, and Jupyter Notebook to clean, anal
    - Employed advanced analysis techniques to identify patterns and trends related to energy access across countries and regions.
    - Conducted statistical analysis to quantify energy poverty and disparities.
 
-5. **Excel-Based Data Visualizations:**
-   - Created compelling data visualizations in Excel, including charts, graphs, and dashboards, to effectively present insights to stakeholders.
+5. **Tableau-Based Data Visualizations:**
+   - Created compelling data visualizations in Tableau, including charts, graphs, and dashboards, to effectively present stakeholder insights.
 
 6. **Impactful Data Visualizations:**
    - Crafted impactful data visualizations illustrating energy disparities.
