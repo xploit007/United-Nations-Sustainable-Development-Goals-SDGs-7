@@ -1,4 +1,4 @@
-# United-Nations-Sustainable-Development-Goals-SDGs-7 Tableau Dashboard
+# United-Nations-Sustainable-Development-Goals-SDGs-7
 
 ## Project Overview
 
@@ -35,7 +35,3 @@ This dynamic project employed Python, Excel, and Jupyter Notebook to clean, anal
 ### Project Outcomes
 
 The project provided hands-on experience using Python and Excel for data cleaning, analysis, and visualization. Insights highlighted global energy poverty, driving social impact and contributing to the pursuit of Sustainable Development Goals.
-
-## Dashboard
-
-![image](https://github.com/xploit007/United-Nations-Sustainable-Development-Goals-SDGs-7/assets/81320000/327d9695-4ece-442d-99a8-f252577dffdf)
