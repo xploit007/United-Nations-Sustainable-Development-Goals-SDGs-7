@@ -1,37 +1,30 @@
-# United-Nations-Sustainable-Development-Goals-SDGs-7
-
-## Project Overview
-
-This dynamic project employed Python, Excel, and Jupyter Notebook to clean, analyze, and visualize global energy access data in alignment with Sustainable Development Goal 7 (SDG-7) on affordable and clean energy using Tableau.
-
-### Key Steps
-
-1. **Data Import and Assessment:**
-   - Imported the raw dataset into Jupyter Notebook for a thorough data quality and completeness evaluation.
-   - Identified and addressed significant data cleaning requirements, especially in handling missing values.
-
-2. **Data Cleaning with Python:**
-   - Utilized Python packages, including Pandas and NumPy for data cleaning tasks.
-   - Executed operations such as handling missing data, data transformations, and managing outliers.
-
-3. **Exploratory Data Analysis (EDA):**
-   - Conducted exploratory data analysis on the cleaned dataset using Pandas, Matplotlib, and Seaborn.
-   - Generated insightful visualizations, including histograms, heatmaps, and scatter plots.
-
-4. **Pattern Identification and Trends:**
-   - Employed advanced analysis techniques to identify patterns and trends related to energy access across countries and regions.
-   - Conducted statistical analysis to quantify energy poverty and disparities.
-
-5. **Tableau-Based Data Visualizations:**
-   - Created compelling data visualizations in Tableau, including charts, graphs, and dashboards, to effectively present stakeholder insights.
-
-6. **Impactful Data Visualizations:**
-   - Crafted impactful data visualizations illustrating energy disparities.
-
-7. **Advanced Data Techniques:**
-   - Applied advanced techniques to analyze and process data, identifying regions with limited access to renewable energy.
-   - Contributed to the global assessment of SDG-7, highlighting critical energy disparities.
-
 ### Project Outcomes
 
 The project provided hands-on experience using Python and Excel for data cleaning, analysis, and visualization. Insights highlighted global energy poverty, driving social impact and contributing to the pursuit of Sustainable Development Goals.
+
+# Evaluating Progress Towards SDG 7 Through Machine Learning
+## Project Overview
+This project focuses on evaluating global progress towards Sustainable Development Goal 7 (SDG 7), which aims to ensure access to affordable, reliable, sustainable, and modern energy for all. Utilizing machine learning models, the project analyzes various data sources to understand and predict trends in energy access and sustainability.
+
+## Objectives
+ - Evaluate the current progress towards achieving SDG 7 on a global scale.
+ - Identify factors influencing access to electricity and quality of energy supply.
+ - Provide data-driven recommendations to stakeholders.
+
+## Data Sources
+Data for this analysis is sourced from the International Energy Agency (IEA), including:
+
+ - World Energy Investment 2023 Data File
+ - World Energy Balances Highlights 2023
+ - Specific indicators related to SDG 7 from the Goal 7 Data set.
+
+## Methodology
+ 1. Data Collection: Data is collected from the IEA database.
+ 2. Data Preprocessing: Includes cleaning, handling missing values, and data standardization.
+ 3. Exploratory Data Analysis (EDA): Analyze distributions, trends, and correlations in the data.
+ 4. Machine Learning Model Development: Implement models to analyze factors and predict future trends.
+ 5. Evaluation and Insights: Evaluate model performance and derive actionable insights.
+
+## Expected Outcomes
+ - Comprehensive report detailing the current state of global energy access and sustainability.
+ - Identification of critical factors influencing SDG 7 progress and recommendations for policy and action.
